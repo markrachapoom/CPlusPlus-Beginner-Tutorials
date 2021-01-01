@@ -9,3 +9,5 @@ Overview :
 Episode 1 : Hello, World!
 
 Episode 2 : Variables
+
+Episode 3 : Constant and Assigning Values
