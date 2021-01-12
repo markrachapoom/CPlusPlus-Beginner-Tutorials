@@ -15,3 +15,5 @@ Episode 3: Constant and Assigning Values
 Episode 4: Pointers and References
 
 Episode 5: Array
+
+Episode 6: String
