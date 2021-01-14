@@ -15,7 +15,7 @@ And repeat (debug the errors if needed).
 
 Note: Up until now, we’ve been doing the magic for you; Step 2, 3, and 4 were all done by simply pressing the Run button.
 
------------------------------------------------- SECTION 2 ------------------------------------------------
+------------------------------------------------ COMPILE AND EXECUTE USING TERMINAL ------------------------------------------------
 
 Compile: A computer can only understand machine code. A compiler can translate the C++ programs that we write into machine code. To compile a file, you need to type g++ followed by the file name in the terminal:
 
