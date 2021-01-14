@@ -1,0 +1,16 @@
+# COMPILE AND EXECUTE
+
+Code → Save → Compile → Execute
+C++ is a compiled language. 
+That means that to get a C++ program to run, you must first translate it from a human-readable form to something a machine can “understand.” 
+That translation is done by a program called a compiler.
+
+When you program in C++, you mainly go through 4 phases during development:
+
+Code — writing the program
+Save — saving the program
+Compile — compiling via the terminal
+Execute — executing via the terminal
+And repeat (debug the errors if needed).
+
+Note: Up until now, we’ve been doing the magic for you; Step 2, 3, and 4 were all done by simply pressing the Run button.
