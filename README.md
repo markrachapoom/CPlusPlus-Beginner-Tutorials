@@ -19,3 +19,5 @@ Episode 5: Array
 Episode 6: String
 
 Episode 7: Functions
+
+Episode 8: Conditions
