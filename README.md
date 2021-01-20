@@ -21,3 +21,5 @@ Episode 6: String
 Episode 7: Functions
 
 Episode 8: Conditions
+
+Episode 9: Vector
